@@ -1,0 +1,4 @@
+FilmProcessor DCP Toolkit
+Copyright (c) 2026 FilmProcessor contributors.
+Manifest readers and streaming SHA-1 are extracted from FilmProcessor's reusable media infrastructure.
+Fixtures are synthetic. No film assets, private certificates or content keys are included.

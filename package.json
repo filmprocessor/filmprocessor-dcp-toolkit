@@ -1,0 +1,33 @@
+{
+  "name": "@filmprocessor/dcp-toolkit",
+  "version": "0.1.0",
+  "description": "DCP manifest parsing, asset references and chunked packing-list integrity checks.",
+  "type": "module",
+  "exports": "./src/index.js",
+  "files": [
+    "src",
+    "examples",
+    "README.md",
+    "LICENSE",
+    "NOTICE"
+  ],
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filmprocessor/filmprocessor-dcp-toolkit.git"
+  },
+  "keywords": [
+    "dcp",
+    "cpl",
+    "pkl",
+    "assetmap",
+    "parser",
+    "filmprocessor"
+  ]
+}
