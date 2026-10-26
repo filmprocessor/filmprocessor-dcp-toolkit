@@ -3,3 +3,7 @@ Copyright (c) 2026 FilmProcessor contributors.
 Manifest readers and streaming SHA-1 are extracted from FilmProcessor's reusable media infrastructure.
 Fixtures are synthetic. No film assets, private certificates or content keys are included.
 Raw JPEG 2000 marker-framing checks are adapted from FilmProcessor; no encoder tuning or product acceptance policy is included.
+Copyright (c) 2026 Psyché Tropes Limited.
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+Original source: https://github.com/filmprocessor/filmprocessor-dcp-toolkit

@@ -70,4 +70,10 @@ and no network requests are made by the library.
 Run `npm test` and `node examples/inspect.js`. Tests use synthetic manifests,
 standard SHA-1 vectors and byte-level corruption, missing-file and malformed-XML
 cases, plus synthetic codestream framing, truncation, false markers and tile-boundary
-cases. MIT; see `LICENSE` and `NOTICE`.
+cases. Apache-2.0; see `LICENSE` and `NOTICE`.
+
+## Licence history
+
+Version 0.3.0 adopts Apache License 2.0 for this project. Earlier published
+versions through 0.2.0 retain their MIT licence. Third-party dependencies
+retain their own licences. See `LICENSE` and `NOTICE`.
