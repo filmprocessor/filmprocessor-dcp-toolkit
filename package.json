@@ -1,6 +1,6 @@
 {
   "name": "@filmprocessor/dcp-toolkit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "DCP manifest parsing, asset references and chunked packing-list integrity checks.",
   "type": "module",
   "exports": "./src/index.js",
